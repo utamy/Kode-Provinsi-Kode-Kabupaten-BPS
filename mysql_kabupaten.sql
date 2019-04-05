@@ -1,6 +1,6 @@
 CREATE TABLE IF NOT EXISTS m_kabupaten (
     `id` INT,
-    `kabupaten` VARCHAR(32) CHARACTER SET utf8,
+    `kabupaten` VARCHAR(100) CHARACTER SET utf8,
     `id_provinsi` INT,
      PRIMARY KEY (id)
 );
