@@ -1,1 +1,1 @@
-# Kode Provinsi Kode Kabupaten BPS
+# Kode Provinsi Kode Kabupaten dari Badan Pusat Statistik
